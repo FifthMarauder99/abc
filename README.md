@@ -2,4 +2,6 @@
 # abc
 
 
-\[ w_1 \cdot x_1 + w_2 \cdot x_2 + \ldots + w_n \cdot x_n \]
+```math
+\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
+```
